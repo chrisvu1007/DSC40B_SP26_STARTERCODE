@@ -19,4 +19,5 @@ Also, note that tutors try to help everyone who attends their hours, but they're
 * You should work independently after getting help (guidance or hints) instead of asking tutors to debug your entire assignment. 
 * You are welcome to come back with another ticket if you are getting stuck again, but you should not submit it immediately after your first one.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ff1493&ctz=America%2FLos_Angeles&showTitle=0&showNav=1&mode=WEEK&src=Y182cHEwcmI3MnFmMmY2MHIxZTJuODVwZG9nMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23cc006e" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=ucsd.edu_k1n4u7oltgld9fmo52mardjshk%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
